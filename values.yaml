@@ -1,6 +1,6 @@
 affinity: {}
 
-env: {}
+extraEnv: {}
 
 extraArgs:
 - --timestamps
